@@ -36,7 +36,11 @@ weasyprint
 ```
 ### 2. Setup git
 
-Follow the insturctions in the [Git section in the elementary OS developer documentation](https://docs.elementary.io/develop/writing-apps/the-basic-setup#git) then come back here.
+Follow the insturctions in the [Git section in the elementary OS developer documentation](https://docs.elementary.io/develop/writing-apps/the-basic-setup#git) then come back here (There's a step that tells you to add your SSH Key to GitHub. You don't need to follow those instructions).
+
+Now create an account on the [GNOME GitLab](https://gitlab.gnome.org/users/sign_in) then add your SSH Key there: https://gitlab.gnome.org/-/profile/keys
+
+Note: On the sign in screen you may see an option to pick between "GNOME account" and "Standard". Pick "Standard".
 
 ### 3. Clone the compiler repository project
 Run one of the following commands in a terminal.
