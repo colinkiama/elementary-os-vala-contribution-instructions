@@ -26,12 +26,13 @@ flex \
 libbison-dev \
 libgraphviz-dev \
 make \
-autoconf
+autoconf \
 autoconf-archive \
 automake \
 libtool \
 help2man \
 weasyprint
+
 ```
 ### 2. Setup git
 
