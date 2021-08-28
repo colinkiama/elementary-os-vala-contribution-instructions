@@ -48,17 +48,20 @@ Run one of the following commands in a terminal.
 Using HTTPS:
 ```bash
 git clone https://gitlab.gnome.org/GNOME/vala
+
 ```
 
 Using SSH (Recommended):
 ```bash
 git clone git@gitlab.gnome.org:GNOME/vala.git
+
 ```
 
 ### 4. Build Vala
 Install a prebuilt Vala Compiler. Why? Because Vala is used to build Vala:
 ```bash	
 sudo apt install valac
+
 ```
 
 Now run these commands in your terminal (This might take a while depending on how fast your machine is):
@@ -67,6 +70,7 @@ Now run these commands in your terminal (This might take a while depending on ho
 cd vala
 ./autogen.sh
 make && sudo make install
+
 ```
 
 ### 5. After building Vala
