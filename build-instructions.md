@@ -13,6 +13,7 @@ Note: These following instructions have only been tested on elementary OS 6 Odin
 First check for updates to packages:
 ```bash
 sudo apt update
+
 ```
 
 Now Install the required packages 
