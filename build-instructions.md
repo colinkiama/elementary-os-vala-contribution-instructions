@@ -89,3 +89,6 @@ Refer to the insturctions here: https://wiki.gnome.org/GitLab
 1. Clean the whole repo with `git clean -dfx`
 2. Use the bootstrap commands but set VALAC to an older valac version e.g `valac-0.48`.
 3. You'll have a working version of the compiler in development again.
+
+### Having issues?
+Create an issue in this repository. We're only human after all :wink:.
