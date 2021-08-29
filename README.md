@@ -34,7 +34,7 @@ help2man \
 weasyprint
 
 ```
-### 2. Setup git
+### 2. Setup Git
 
 Follow the insturctions in the [Git section in the elementary OS developer documentation](https://docs.elementary.io/develop/writing-apps/the-basic-setup#git) then come back here (There's a step that tells you to add your SSH Key to GitHub. You don't need to follow those instructions).
 
@@ -45,15 +45,15 @@ Note: On the sign in screen you may see an option to pick between "GNOME account
 ### 3. Clone the compiler repository project
 Run one of the following commands in a terminal.
 
-Using HTTPS:
-```bash
-git clone https://gitlab.gnome.org/GNOME/vala
-
-```
-
 Using SSH (Recommended):
 ```bash
 git clone git@gitlab.gnome.org:GNOME/vala.git
+
+```
+
+Using HTTPS:
+```bash
+git clone https://gitlab.gnome.org/GNOME/vala
 
 ```
 
